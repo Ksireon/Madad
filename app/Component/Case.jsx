@@ -123,7 +123,7 @@ const Case = () => {
                         </div>
 
                         <div className="lewdes2">
-                            <p>Средний чек</p> <h1>от 50$</h1>
+                            <p>Средний чек</p> <h1>50$</h1>
                         </div>
 
                         <div className="lewdes3">
@@ -162,7 +162,7 @@ const Case = () => {
                         </div>
 
                         <div className="lewdes2">
-                            <p>Средний чек</p> <h1>от 350$</h1>
+                            <p>Средний чек</p> <h1>350$</h1>
                         </div>
 
                         <div className="lewdes3">
@@ -191,7 +191,7 @@ const Case = () => {
                         </div>
 
                         <div className="lewdes2">
-                            <p>Средний чек</p> <h1>от 12$</h1>
+                            <p>Средний чек</p> <h1>12$</h1>
                         </div>
 
                         <div className="lewdes3">
@@ -230,7 +230,7 @@ const Case = () => {
                         </div>
 
                         <div className="lewdes2">
-                            <p>Средний чек</p> <h1>от 48$</h1>
+                            <p>Средний чек</p> <h1>48$</h1>
                         </div>
 
                         <div className="lewdes3">
